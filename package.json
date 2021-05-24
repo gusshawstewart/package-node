@@ -1,0 +1,19 @@
+{
+  "name": "@gusshawstewart/package-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusshawstewart/package-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gusshawstewart/package-node/issues"
+  },
+  "homepage": "https://github.com/gusshawstewart/package-node#readme",
+  "description": ""
+}
