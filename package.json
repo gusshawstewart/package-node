@@ -15,5 +15,8 @@
     "url": "https://github.com/gusshawstewart/package-node/issues"
   },
   "homepage": "https://github.com/gusshawstewart/package-node#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "mongo-express": "^1.0.0-alpha.4"
+  }
 }
